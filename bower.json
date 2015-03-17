@@ -1,0 +1,27 @@
+{
+  "name": "knockout-hammer",
+  "version": "1.0.0",
+  "homepage": "https://github.com/tsukumo-web/knockout-hammer",
+  "authors": [
+    "tsukumo <tsukumo.code@gmail.com>"
+  ],
+  "description": "hammer for knockout bindings",
+  "main": "knockout-hammer.coffee",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "hammer",
+    "knockout",
+    "bindings"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "*",
+    "!knockout-hammer.coffee",
+    "!hammer.js"
+  ],
+  "dependencies": {
+    "knockout-shell": "https://github.com/tsukumo-web/knockout-shell.git#~1.0.7"
+  }
+}
