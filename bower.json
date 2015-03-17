@@ -1,6 +1,6 @@
 {
   "name": "knockout-hammer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/tsukumo-web/knockout-hammer",
   "authors": [
     "tsukumo <tsukumo.code@gmail.com>"
@@ -22,6 +22,6 @@
     "!hammer.js"
   ],
   "dependencies": {
-    "knockout-shell": "https://github.com/tsukumo-web/knockout-shell.git#~1.0.7"
+    "knockout-shell": "https://github.com/tsukumo-web/knockout-shell.git#~1.0.8"
   }
 }
